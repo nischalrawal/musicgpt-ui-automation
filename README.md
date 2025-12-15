@@ -18,7 +18,7 @@ musicgpt-ui-automation is a Playwright-based test automation project for the Mus
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/musicgpt-ui-automation.git
+git clone https://github.com/nischalrawal/musicgpt-ui-automation.git
 cd musicgpt-ui-automation
 npm install
 ```

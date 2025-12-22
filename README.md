@@ -22,7 +22,7 @@ git clone https://github.com/nischalrawal/musicgpt-ui-automation.git
 cd musicgpt-ui-automation
 npm install
 ```
-## Running Tests
+## --- Running Tests ---
 
 ### Run all tests:
 ```bash

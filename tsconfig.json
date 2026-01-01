@@ -6,7 +6,8 @@
        "@pages/*": ["pages/*"],
         "@tests/*": ["tests/*"],
         "@utils/*": ["utils/*"],
-        "@fixtures/*": ["fixtures/*"]
+        "@fixtures/*": ["fixtures/*"],
+        "@config/*" : ["config/*"]
       },
     // Environment Settings
     // See also https://aka.ms/tsconfig/module

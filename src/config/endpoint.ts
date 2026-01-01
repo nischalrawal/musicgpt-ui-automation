@@ -1,3 +1,5 @@
 export const AppRoutes = {
-    home : "/"
+    home : "/",
+    create : "create",
+    explore : "explore"
     }
